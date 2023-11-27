@@ -1,7 +1,9 @@
 # Conversor-para-.cbz
 Conversor Universal para CBZ em JavaScript! Este script é projetado para simplificar o processo de transformação de diversos tipos de arquivos em arquivos .cbz, um formato popular para quadrinhos digitais. 
 
-Este projeto oferece um script simples em JavaScript para converter arquivos .pdf em arquivos .cbz, um formato comumente utilizado para quadrinhos digitais. Atualmente, o script lista os arquivos presentes em um diretório específico ('./pdf_test') e os exibe no console.
+Bem-vindo ao Conversor Universal para CBZ em JavaScript! Este script é projetado para simplificar o processo de transformação de diversos tipos de arquivos em arquivos .cbz, um formato popular para quadrinhos digitais. Atualmente, a funcionalidade inicial se concentra na conversão de arquivos .pdf para .cbz, oferecendo uma solução rápida e eficiente para os entusiastas de quadrinhos.
+
+
 
 Instruções de Uso:
 
